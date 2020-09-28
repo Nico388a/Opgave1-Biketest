@@ -8,7 +8,7 @@ namespace BikeUnitTest1
         public int Id { get; set; }
 
         private string _color;
-
+        //
         public string Color
         {
             get { return _color; }
